@@ -1,4 +1,4 @@
 ## #INF 653 - Midterm
 
 DB uses Postgres
-<placeholder for link>
+Deployment link: https://backendmidterm-dlf2.onrender.com/
